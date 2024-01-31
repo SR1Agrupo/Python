@@ -22,3 +22,8 @@
 - [Guía básica de Python en español](https://j2logo.com/python/tutorial/)
 
 ---
+
+## Cursos y certificaciones
+
+- [Python Essentials - Part 1 (Basics)](https://edube.org/study/pe1) - *PCEP - Certified Entry-Level Python Programmer and PCAP: Certified Associate in Python Programming*
+- [Python Essentials - Part 2 (Intermediate)](https://edube.org/study/pe2) - *PCAP: Certified Associate Python Programmer certification exam at a Pearson VUE Test Center*
