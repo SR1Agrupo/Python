@@ -12,6 +12,8 @@
 
 5.- [04SimDNS.ipynb](https://github.com/SR1Agrupo/Python/blob/main/04_SimDNS.ipynb)
 
+6.- [GitHub Classroom](https://classroom.github.com/a/3TK9JA86)
+
 ---
 
 ## Recursos en español
