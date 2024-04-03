@@ -2,17 +2,23 @@
 
 ## Ejercicios de `Introducción a la programación` - **`Python`**
 
-1.- [01Py.md](https://github.com/SR1Agrupo/Python/blob/main/01Py.md)
+- [01Py.md](https://github.com/SR1Agrupo/Python/blob/main/01Py.md)
 
-2.- [01PyResp.md](https://github.com/SR1Agrupo/Python/blob/main/01PyResp.md)
+- [01PyResp.md](https://github.com/SR1Agrupo/Python/blob/main/01PyResp.md)
 
-3.- [02Feliz2024.ipynb](https://github.com/SR1Agrupo/Python/blob/main/02Feliz2024.ipynb)
+- [02Feliz2024.ipynb](https://github.com/SR1Agrupo/Python/blob/main/02Feliz2024.ipynb)
 
-4.- [03TiposYops.ipynb](https://github.com/SR1Agrupo/Python/blob/main/03_TiposYops.ipynb)
+- [03TiposYops.ipynb](https://github.com/SR1Agrupo/Python/blob/main/03_TiposYops.ipynb)
 
-5.- [04SimDNS.ipynb](https://github.com/SR1Agrupo/Python/blob/main/04_SimDNS.ipynb)
+- [04SimDNS.ipynb](https://github.com/SR1Agrupo/Python/blob/main/04_SimDNS.ipynb)
 
-6.- [GitHub Classroom](https://classroom.github.com/a/3TK9JA86)
+- [GitHub Classroom](https://classroom.github.com/a/3TK9JA86)
+
+- [Bisiestos.ipynb](https://github.com/SR1Agrupo/Python/blob/main/Bisiestos.ipynb)
+
+- [05_EjerciciosVarios.ipynb](https://github.com/SR1Agrupo/Python/blob/main/05_EjerciciosVarios.ipynb)
+
+- [06_EjerciciosListas.ipynb](https://github.com/SR1Agrupo/Python/blob/main/06_EjerciciosListas.ipynb)
 
 ---
 
